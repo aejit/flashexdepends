@@ -1,4 +1,4 @@
-FROM maven:3.6.0-jdk-12-alpine
+FROM maven:3.6.2-jdk-12-alpine
 
 COPY / /dependencies
 
